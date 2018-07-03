@@ -6,7 +6,7 @@ import {
 
 const matArray = [
   MatButtonModule, MatCheckboxModule
-]
+];
 
 @NgModule({
   imports: [matArray],
